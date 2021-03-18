@@ -1,11 +1,10 @@
 import React from 'react';
-import pokemon from '../images/charizard.png';
 
 function Card(props) {
     return(
-        <div className="card">
-            <img src={pokemon}/>
-            <p>Charizard</p>
+        <div name={props.name} onClick={props.checkAnswer} className="card">
+            <img src={`/images/${props.name}.png`} name={props.name}/>
+            <p name={props.name}>{props.name}</p>
         </div>
     );
 }
