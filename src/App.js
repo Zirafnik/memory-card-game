@@ -42,7 +42,7 @@ function App() {
     <div className="App">
       <Header score={currentScore} bestScore={bestScore} />
 
-      <ImgContainer checkAnswer={checkAnswer} />      
+      <ImgContainer score={currentScore} bestScore={bestScore} checkAnswer={checkAnswer} />      
       
       <Footer />
     </div>
