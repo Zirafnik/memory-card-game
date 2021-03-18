@@ -84,3 +84,7 @@ h1 {
     height: 35px;
     width: 35px;
 }
+
+a {
+    outline: none;
+}
