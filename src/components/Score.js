@@ -1,9 +1,9 @@
 function Score(props) {
 
     return(
-        <div>
+        <div className='score'>
             <p>Score: {props.score}</p>
-            <p>Best Score: {props.bestScore}</p>
+            <p>High Score: {props.bestScore}</p>
         </div>
     );
 }

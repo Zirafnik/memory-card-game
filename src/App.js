@@ -31,6 +31,7 @@ function App() {
       updateBestScore();
       resetScore();
       setClickedPoke([]);
+      alert('GAME OVER');
     } else {
       console.log('CORRECT');
       console.log(e.target.getAttribute('name'));

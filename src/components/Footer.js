@@ -4,7 +4,7 @@ function Footer() {
     return (
         <footer className='footer'>
             <p className='footer-text'>Zirafnik</p>
-            <a target='_blank' href='https://github.com/Zirafnik'><img className='github-image' src={`/images/github.png`}/></a>
+            <a target='_blank' href='https://github.com/Zirafnik/memory-card-game'><img className='github-image' src={`/images/github.png`}/></a>
         </footer>
     )
 }
