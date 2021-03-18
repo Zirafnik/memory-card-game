@@ -2,7 +2,7 @@ import React, {useState, useEffect} from 'react';
 import Card from './Card';
 
 function ImgContainer(props) {
-    let pokeNames= ['charmander', 'bulbasaur', 'squirtle', 'beedrill', 'pidgey', 'abra', 'ekans', 'elekid', 'geodude', 'mewtwo', 'pikachu', 'pinsir', 'togepi'];
+    let pokeNames= ['charmander', 'bulbasaur', 'squirtle', 'beedrill', 'pidgey', 'abra', 'ekans', 'elekid', 'geodude', 'mewtwo', 'pikachu', 'pinsir', 'togepi', 'cyndaquil', 'magikarp', 'onix'];
     const [pokeCards, setPokeCards] = useState(pokeNames);
 
     useEffect(() => {
