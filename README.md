@@ -11,4 +11,4 @@ After each click the cards shuffle. If you click on the same card twice the game
 
 Live: https://zirafnik.github.io/memory-card-game/
 
-![Screenshot No. 1](/screenshots/pokemon-memory-cards-screenshot1)
+![Screenshot No. 1](/screenshots/pokemon-memory-cards-screenshot1.png)
