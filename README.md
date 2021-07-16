@@ -1,6 +1,6 @@
 # Pokemon Memory Card Game
 
-A memory card guessing game built with **React** using *functional components* and *hooks*. It is inspired by Pokemon.
+A memory card guessing game built with **React** using ***functional components*** and ***hooks***. It is inspired by Pokemon.
 
 ## Instructions:
 
